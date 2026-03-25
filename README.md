@@ -11,10 +11,6 @@
 ### 👤 About Me
 I'm a passionate developer focused on building clean web interfaces and optimizing Linux workflows. I love minimalist design, glassmorphism, and efficient terminal-based environments.
 
-- 📸 **Instagram:** [@mhmmdr4kka](https://instagram.com/mhmmdr4kka)
-- 🖥️ **Environment:** Fedora + Hyprland
-- ⚡ **Workflow:** Neovim (LazyVim)
-
 ---
 
 ### 📊 Contribution Graph
