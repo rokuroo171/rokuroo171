@@ -31,9 +31,6 @@ I'm a passionate developer focused on building clean web interfaces and optimizi
 </p>
 
 - **Core:** HTML5, CSS3, JavaScript (ES6+).
-- **Added:** Tailwind CSS & Git (Standard workflow for web devs).
-- **Environment:** Linux (Fedora/Hyprland) & Neovim.
-
 ---
 
 ### 📈 Statistics
