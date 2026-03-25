@@ -9,7 +9,7 @@
 </p>
 
 ### 👤 About Me
-I'm a passionate developer focused on building clean web interfaces and optimizing Linux workflows. I love minimalist design, glassmorphism, and efficient terminal-based environments.
+I'm a passionate developer focused on building clean web interfaces and optimizing Linux workflows.
 
 ---
 
