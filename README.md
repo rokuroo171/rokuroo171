@@ -44,10 +44,6 @@ I'm a passionate developer focused on building clean web interfaces and optimizi
 
 ---
 
-  <br>
-  <i>"Code is like humor. When you have to explain it, it’s bad."</i>
-</p>
-
 <p align="center">
   <b>:wq to save and exit.</b>
 </p>
