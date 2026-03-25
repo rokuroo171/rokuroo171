@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://giphy.com/gifs/GaPyfmaXz8tMji9s6m" width="100%" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUyemMxamFrdW84YTN4bWh5MHJrbmgwdGRtZWk3dGp0anIzamFzMjN4eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GaPyfmaXz8tMji9s6m/giphy.gif" width="100%" />
 </p>
 
 # Hi, I'm Rakka (rokuroo) 🧊
