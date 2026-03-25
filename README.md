@@ -5,7 +5,7 @@
 # Hi, I'm Rakka (rokuroo) 🧊
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7AA2F7&width=435&lines=Software+Engineer;Front-end+Developer;Linux+Ricing+Enthusiast;Neovim+User+(:wq)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7AA2F7&width=435&lines=Software+Engineer;Front-end+Developer;Linux+Ricing+Enthusiast" alt="Typing SVG" />
 </p>
 
 ### 👤 About Me
