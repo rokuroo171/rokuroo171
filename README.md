@@ -26,7 +26,7 @@ I'm a passionate developer focused on building clean web interfaces and optimizi
 ### 🛠️ Languages & Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,git,linux,fedora,neovim,vscode&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,git,linux,vim,neovim,vscode&theme=dark" />
   </a>
 </p>
 
