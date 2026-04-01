@@ -89,8 +89,8 @@
 - 🌺 &nbsp;**A Space for the Unbound** — indonesian, beautiful, and devastating
 - 🖤 &nbsp;**Omori** — do not play at night alone
 - 💛 &nbsp;**Undertale** — changed how i think about games
-- ⚡ &nbsp;**Wuthering Waves** — stunning combat
-- 🤖 &nbsp;**Punishing: Gray Raven** — cyberpunk and stylish
+- ⚡ &nbsp;**Wuthering Waves** — carlotta.
+- 🤖 &nbsp;**Punishing: Gray Raven**
 
 <br/>
 </details>
