@@ -86,7 +86,7 @@
 <summary>▶ &nbsp;🎮 &nbsp;<b>favourite games</b></summary>
 <br/>
 
-- 🌺 &nbsp;**A Space for the Unbound** — indonesian, beautiful, and devastating
+- 🌺 &nbsp;**A Space for the Unbound**
 - 🖤 &nbsp;**Omori**
 - 💛 &nbsp;**Undertale**
 - ⚡ &nbsp;**Wuthering Waves** — carlotta.
