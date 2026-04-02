@@ -123,13 +123,9 @@
 <br/>
 
 - **editor:** VSCodium + Neovim
-- **terminal:** Kitty / Ptyxis
-- **WM:** Hyprland → exploring GNOME
-- **font:** CaskaydiaMono Nerd Font
+- **WM:** Hyprland
 - **distro:** Fedora Linux
-- **file manager:** Nautilus
-- **music:** Spotify
-
+- 
 <br/>
 </details>
 
