@@ -87,8 +87,8 @@
 <br/>
 
 - 🌺 &nbsp;**A Space for the Unbound** — indonesian, beautiful, and devastating
-- 🖤 &nbsp;**Omori** — do not play at night alone
-- 💛 &nbsp;**Undertale** — changed how i think about games
+- 🖤 &nbsp;**Omori**
+- 💛 &nbsp;**Undertale**
 - ⚡ &nbsp;**Wuthering Waves** — carlotta.
 - 🤖 &nbsp;**Punishing: Gray Raven**
 
@@ -99,10 +99,10 @@
 <summary>▶ &nbsp;📺 &nbsp;<b>favourite anime</b></summary>
 <br/>
 
-- 🎸 &nbsp;**Bocchi the Rock** — spiritually relatable
-- 💌 &nbsp;**Violet Evergarden** — cried multiple times
-- 🎵 &nbsp;**K-On!** — comfort anime forever
-- ⚔️ &nbsp;**Vinland Saga** — peak storytelling
+- 🎸 &nbsp;**Bocchi the Rock**
+- 💌 &nbsp;**Violet Evergarden**
+- 🎵 &nbsp;**K-On!**
+- ⚔️ &nbsp;**Vinland Saga**
 
 <br/>
 </details>
