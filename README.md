@@ -147,12 +147,12 @@
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-rokuroo171-9A2A53?style=for-the-badge&logo=github&logoColor=E7E3E2&labelColor=2F1D1E)](https://github.com/rokuroo171)
-[![Instagram](https://img.shields.io/badge/Instagram-C84C63?style=for-the-badge&logo=instagram&logoColor=E7E3E2&labelColor=2F1D1E)](https://instagram.com)
+[![Instagram](https://img.shields.io/badge/Instagram-C84C63?style=for-the-badge&logo=instagram&logoColor=E7E3E2&labelColor=2F1D1E)](https://instagram.com/0x.rakka42)
 [![Discord](https://img.shields.io/badge/Discord-325568?style=for-the-badge&logo=discord&logoColor=E7E3E2&labelColor=2F1D1E)](https://discord.com)
-[![Spotify](https://img.shields.io/badge/Spotify-9A2A53?style=for-the-badge&logo=spotify&logoColor=E7E3E2&labelColor=2F1D1E)](https://open.spotify.com)
+[![Spotify](https://img.shields.io/badge/Spotify-9A2A53?style=for-the-badge&logo=spotify&logoColor=E7E3E2&labelColor=2F1D1E)](https://open.spotify.com/)
 [![AniList](https://img.shields.io/badge/AniList-325568?style=for-the-badge&logo=anilist&logoColor=E7E3E2&labelColor=2F1D1E)](https://anilist.co)
-[![Steam](https://img.shields.io/badge/Steam-9A2A53?style=for-the-badge&logo=steam&logoColor=E7E3E2&labelColor=2F1D1E)](https://store.steampowered.com)
-[![Twitch](https://img.shields.io/badge/Twitch-C84C63?style=for-the-badge&logo=twitch&logoColor=E7E3E2&labelColor=2F1D1E)](https://twitch.tv)
+[![Steam](https://img.shields.io/badge/Steam-9A2A53?style=for-the-badge&logo=steam&logoColor=E7E3E2&labelColor=2F1D1E)](https://store.steampowered.com/zeniux262)
+[![Twitch](https://img.shields.io/badge/Twitch-C84C63?style=for-the-badge&logo=twitch&logoColor=E7E3E2&labelColor=2F1D1E)](https://twitch.tv/)
 
 </div>
 
