@@ -17,7 +17,7 @@
 <img align="right" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="140px" />
 
 - 🗓️ &nbsp;`17/12` — from Indonesia
-- 🐧 &nbsp;daily driving **Fedora Linux**, ricing everything in sight
+- 🐧 &nbsp;daily driving **NixOS**, ricing everything in sight
 - 💻 &nbsp;self-taught — started with Scratch & Python in **2022**
 - 🌸 &nbsp;running the **1day1project** challenge
 - 🎨 &nbsp;obsessed with **Hyprland**, **Waybar**, and dark aesthetics
