@@ -123,8 +123,7 @@
 
 - **editor:** VSCodium + Neovim
 - **WM:** Hyprland
-- **distro:** Fedora Linux
-- 
+- **distro:** NixOS
 <br/>
 </details>
 
