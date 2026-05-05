@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F1D1E,50:9A2A53,100:2F1D1E&height=200&section=header&text=rokuroo&fontSize=60&fontColor=E7E3E2&fontAlignY=38&desc=just%20a%20kid%20who%20codes%20and%20rices%20linux&descSize=16&descAlignY=60&descColor=C84C63&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F1D1E,50:9A2A53,100:2F1D1E&height=200&section=header&text=rokuroo&fontSize=60&fontColor=E7E3E2&fontAlignY=38&desc=just%20a%20kid%20who%20rices%20linux&descSize=16&descAlignY=60&descColor=C84C63&animation=fadeIn" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=1000&color=C84C63&center=true&vCenter=true&width=500&lines=self-taught+dev+%F0%9F%8C%B8;linux+ricer+%26+desktop+nerd;building+stuff%2C+one+day+at+a+time+%E2%9C%A8;currently+vibing+on+nixos" alt="typing svg" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=1000&color=C84C63&center=true&vCenter=true&width=500&lines=self-taught+dev+%F0%9F%8C%B8;Linux+ricing+enthusiast%26+desktop+nerd;building+stuff%2C+one+day+at+a+time+%E2%9C%A8;currently+vibing+on+nixos" alt="typing svg" />
 
 </div>
 
