@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=1000&color=C84C63&center=true&vCenter=true&width=500&lines=self-taught+dev+%F0%9F%8C%B8;linux+ricer+%26+desktop+nerd;building+stuff%2C+one+day+at+a+time+%E2%9C%A8;currently+vibing+on+fedora+linux" alt="typing svg" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=1000&color=C84C63&center=true&vCenter=true&width=500&lines=self-taught+dev+%F0%9F%8C%B8;linux+ricer+%26+desktop+nerd;building+stuff%2C+one+day+at+a+time+%E2%9C%A8;currently+vibing+on+nixos" alt="typing svg" />
 
 </div>
 
