@@ -162,5 +162,5 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F1D1E,50:9A2A53,100:2F1D1E&height=120&section=footer&animation=fadeIn" />
 
-<sub><i>"your quote here" — you, probably</i></sub>
+<sub><i>"like, dislike, must like" — someone probably</i></sub>
 
