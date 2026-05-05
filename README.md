@@ -87,7 +87,7 @@
 
 - 🌺 &nbsp;**A Space for the Unbound**
 - 🖤 &nbsp;**Omori**
-- 💛 &nbsp;**Undertale**
+- ❤️ &nbsp;**Undertale**
 - ⚡ &nbsp;**Wuthering Waves** — carlotta.
 - 🤖 &nbsp;**Punishing: Gray Raven**
 
