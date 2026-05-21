@@ -35,8 +35,6 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-C84C63?style=for-the-badge&logo=javascript&logoColor=2F1D1E)
 ![Python](https://img.shields.io/badge/Python-325568?style=for-the-badge&logo=python&logoColor=E7E3E2)
 ![Rust](https://img.shields.io/badge/Rust-9A2A53?style=for-the-badge&logo=rust&logoColor=E7E3E2)
-![Shell](https://img.shields.io/badge/Shell-2F1D1E?style=for-the-badge&logo=gnubash&logoColor=C84C63)
-![Neovim](https://img.shields.io/badge/Neovim-325568?style=for-the-badge&logo=neovim&logoColor=E7E3E2)
 ![Git](https://img.shields.io/badge/Git-9A2A53?style=for-the-badge&logo=git&logoColor=E7E3E2)
 
 </div>
