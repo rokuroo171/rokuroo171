@@ -104,9 +104,7 @@ uhm... uhh...
 <summary>▶ &nbsp;🎵 &nbsp;<b>favourite music</b></summary>
 <br/>
 
-- **genres:** city pop, lo-fi, indie, ambient, math rock
-- **vibe:** anything that hits different at 2am while coding
-- catch me on spotify ignoring everyone
+- **vibe:** anything that hits different at 2am
 
 <br/>
 </details>
