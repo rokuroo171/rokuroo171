@@ -14,7 +14,7 @@
 
 ## 🌸 &nbsp;hello there &nbsp;👋
 
-<img align="right" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="140px" />
+<img align="right" src="https://media.tenor.com/s4opOMLG1TYAAAAj/wuthering-waves-wuwa.gif" width="140px" />
 
 - 🗓️ &nbsp;`17/12` — from Indonesia
 - 🐧 &nbsp;daily driving **NixOS**
