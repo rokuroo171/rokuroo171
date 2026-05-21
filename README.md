@@ -44,13 +44,9 @@
 ## 📖 &nbsp;currently learning
 
 <div align="center">
-
-![Rust](https://img.shields.io/badge/Rust-picking+it+up-9A2A53?style=flat-square&logo=rust&logoColor=E7E3E2)
-![Neovim](https://img.shields.io/badge/Neovim-getting+comfy-325568?style=flat-square&logo=neovim&logoColor=E7E3E2)
-![Git](https://img.shields.io/badge/Git-going+deeper-C84C63?style=flat-square&logo=git&logoColor=E7E3E2)
-![Linux](https://img.shields.io/badge/Linux+Ricing-never+stops-9A2A53?style=flat-square&logo=linux&logoColor=E7E3E2)
-
 </div>
+
+uhm... uhh...
 
 ---
 
