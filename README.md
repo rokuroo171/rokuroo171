@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F1D1E,50:9A2A53,100:2F1D1E&height=200&section=header&text=rokuroo&fontSize=60&fontColor=E7E3E2&fontAlignY=38&desc=idk%20...&descSize=16&descAlignY=60&descColor=C84C63&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F1D1E,50:9A2A53,100:2F1D1E&height=200&section=header&text=rokuroo&fontSize=60&fontColor=E7E3E2&fontAlignY=38&desc=building%20%26%20breaking%20things&descSize=16&descAlignY=60&descColor=C84C63&animation=fadeIn" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=1000&color=C84C63&center=true&vCenter=true&width=500&lines=self-taught+dev+%F0%9F%8C%B8;Linux+ricing+enthusiast+%26+desktop+nerd;building+stuff%2C+one+day+at+a+time+%E2%9C%A8;currently+vibing+on+NixOS" alt="typing svg" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=1000&color=C84C63&center=true&vCenter=true&width=500&lines=self-taught+dev;software+engineer+%26+security+nerd;building+%26+breaking+things;i+use+Arch+btw..." alt="typing svg" />
 
 </div>
 
@@ -18,7 +18,8 @@
 
 - 🗓️ &nbsp;`17/12` — from Indonesia
 - 🐧 &nbsp;daily driving **Arch Linux**
-- 💻 &nbsp;self-taught - started with Scratch & Python in **2022**
+- 💻 &nbsp;self-taught — started with Scratch & Python in **2022**
+- 🔐 &nbsp;into **cybersecurity** — exploring how things break
 - 🌸 &nbsp;running the **1day1project** challenge
 - 🔗 &nbsp;portfolio → *(soon™)*
 
@@ -31,11 +32,37 @@
 <div align="center">
 
 ![HTML5](https://img.shields.io/badge/HTML5-9A2A53?style=for-the-badge&logo=html5&logoColor=E7E3E2)
-![CSS3](https://img.shields.io/badge/CSS3-325568?style=for-the-badge&logo=css3&logoColor=E7E3E2)
+![CSS3](https://img.shields.io/badge/CSS3-6B1535?style=for-the-badge&logo=css3&logoColor=E7E3E2)
 ![JavaScript](https://img.shields.io/badge/JavaScript-C84C63?style=for-the-badge&logo=javascript&logoColor=2F1D1E)
-![Python](https://img.shields.io/badge/Python-325568?style=for-the-badge&logo=python&logoColor=E7E3E2)
-![Rust](https://img.shields.io/badge/Rust-9A2A53?style=for-the-badge&logo=rust&logoColor=E7E3E2)
-![Git](https://img.shields.io/badge/Git-9A2A53?style=for-the-badge&logo=git&logoColor=E7E3E2)
+![Python](https://img.shields.io/badge/Python-6B1535?style=for-the-badge&logo=python&logoColor=E7E3E2)
+![Bash](https://img.shields.io/badge/Bash-9A2A53?style=for-the-badge&logo=gnubash&logoColor=E7E3E2)
+![Git](https://img.shields.io/badge/Git-C84C63?style=for-the-badge&logo=git&logoColor=2F1D1E)
+![Linux](https://img.shields.io/badge/Linux-6B1535?style=for-the-badge&logo=linux&logoColor=E7E3E2)
+
+</div>
+
+---
+
+## 🏷️ &nbsp;starred topics
+
+<div align="center">
+
+![html](https://img.shields.io/badge/html-9A2A53?style=flat-square&logoColor=E7E3E2)
+![css](https://img.shields.io/badge/css-6B1535?style=flat-square&logoColor=E7E3E2)
+![javascript](https://img.shields.io/badge/javascript-C84C63?style=flat-square&logoColor=2F1D1E)
+![git](https://img.shields.io/badge/git-9A2A53?style=flat-square&logoColor=E7E3E2)
+![github](https://img.shields.io/badge/github-6B1535?style=flat-square&logoColor=E7E3E2)
+![linux](https://img.shields.io/badge/linux-9A2A53?style=flat-square&logoColor=E7E3E2)
+![terminal](https://img.shields.io/badge/terminal-6B1535?style=flat-square&logoColor=E7E3E2)
+![bash](https://img.shields.io/badge/bash-C84C63?style=flat-square&logoColor=2F1D1E)
+![web-development](https://img.shields.io/badge/web--development-9A2A53?style=flat-square&logoColor=E7E3E2)
+![frontend](https://img.shields.io/badge/frontend-6B1535?style=flat-square&logoColor=E7E3E2)
+![open-source](https://img.shields.io/badge/open--source-C84C63?style=flat-square&logoColor=2F1D1E)
+![cybersecurity](https://img.shields.io/badge/cybersecurity-9A2A53?style=flat-square&logoColor=E7E3E2)
+![networking](https://img.shields.io/badge/networking-6B1535?style=flat-square&logoColor=E7E3E2)
+![ethical-hacking](https://img.shields.io/badge/ethical--hacking-C84C63?style=flat-square&logoColor=2F1D1E)
+![ctf](https://img.shields.io/badge/ctf-9A2A53?style=flat-square&logoColor=E7E3E2)
+![osint](https://img.shields.io/badge/osint-6B1535?style=flat-square&logoColor=E7E3E2)
 
 </div>
 
@@ -43,32 +70,20 @@
 
 ## 📖 &nbsp;currently learning
 
-<div align="center">
-</div>
-
-uhm... uhh...
+- 🔐 &nbsp;cybersecurity fundamentals — networking, ethical hacking, CTF rabbit holes
+- 🌐 &nbsp;going deeper into **JavaScript** — async, APIs, the weird parts
+- 🐚 &nbsp;shell scripting & system internals
 
 ---
 
 ## 📊 &nbsp;stats
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=rokuroo171&show_icons=true&theme=transparent&hide_border=true&title_color=C84C63&icon_color=9A2A53&text_color=E7E3E2&bg_color=2F1D1E" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rokuroo171&layout=compact&theme=transparent&hide_border=true&title_color=C84C63&text_color=E7E3E2&bg_color=2F1D1E" height="165" />
-
-</div>
-
-<div align="center">
-
 <img src="https://streak-stats.demolab.com?user=rokuroo171&theme=transparent&hide_border=true&ring=9A2A53&fire=C84C63&currStreakLabel=C84C63&sideLabels=A29FA3&dates=A29FA3" />
-
 </div>
 
 <div align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=rokuroo171&bg_color=2F1D1E&color=C84C63&line=9A2A53&point=E7E3E2&area=true&hide_border=true" />
-
 </div>
 
 ---
@@ -115,7 +130,7 @@ uhm... uhh...
 
 - **editor:** VSCodium + Neovim
 - **WM:** Hyprland
-- **distro:** Arch
+- **distro:** Arch Linux
 <br/>
 </details>
 
@@ -139,12 +154,10 @@ uhm... uhh...
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-rokuroo171-9A2A53?style=for-the-badge&logo=github&logoColor=E7E3E2&labelColor=2F1D1E)](https://github.com/rokuroo171)
-[![Instagram](https://img.shields.io/badge/Instagram-C84C63?style=for-the-badge&logo=instagram&logoColor=E7E3E2&labelColor=2F1D1E)](https://instagram.com/0xrakka.42)
-[![Discord](https://img.shields.io/badge/Discord-325568?style=for-the-badge&logo=discord&logoColor=E7E3E2&labelColor=2F1D1E)](https://discord.com)
-[![Spotify](https://img.shields.io/badge/Spotify-9A2A53?style=for-the-badge&logo=spotify&logoColor=E7E3E2&labelColor=2F1D1E)](https://open.spotify.com/)
-[![AniList](https://img.shields.io/badge/AniList-325568?style=for-the-badge&logo=anilist&logoColor=E7E3E2&labelColor=2F1D1E)](https://anilist.co)
-[![Steam](https://img.shields.io/badge/Steam-9A2A53?style=for-the-badge&logo=steam&logoColor=E7E3E2&labelColor=2F1D1E)](https://store.steampowered.com/zeniux262)
-[![Twitch](https://img.shields.io/badge/Twitch-C84C63?style=for-the-badge&logo=twitch&logoColor=E7E3E2&labelColor=2F1D1E)](https://twitch.tv/)
+[![Instagram](https://img.shields.io/badge/Instagram-C84C63?style=for-the-badge&logo=instagram&logoColor=E7E3E2&labelColor=2F1D1E)](https://instagram.com/rakka.tar.gz)
+[![Discord](https://img.shields.io/badge/Discord-6B1535?style=for-the-badge&logo=discord&logoColor=E7E3E2&labelColor=2F1D1E)](https://discord.com)
+[![Spotify](https://img.shields.io/badge/Spotify-9A2A53?style=for-the-badge&logo=spotify&logoColor=E7E3E2&labelColor=2F1D1E)](https://open.spotify.com/user/31ugw36sbsvnbk77pcv4wf5pvxfm)
+[![AniList](https://img.shields.io/badge/AniList-6B1535?style=for-the-badge&logo=anilist&logoColor=E7E3E2&labelColor=2F1D1E)](https://anilist.co/user/rokuroo171/)
 
 </div>
 
