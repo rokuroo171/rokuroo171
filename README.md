@@ -17,7 +17,7 @@
 <img align="right" src="https://media.tenor.com/s4opOMLG1TYAAAAj/wuthering-waves-wuwa.gif" width="140px" />
 
 - 🗓️ &nbsp;`17/12` — from Indonesia
-- 🐧 &nbsp;daily driving **NixOS**
+- 🐧 &nbsp;daily driving **Arch Linux**
 - 💻 &nbsp;self-taught - started with Scratch & Python in **2022**
 - 🌸 &nbsp;running the **1day1project** challenge
 - 🔗 &nbsp;portfolio → *(soon™)*
@@ -115,7 +115,7 @@ uhm... uhh...
 
 - **editor:** VSCodium + Neovim
 - **WM:** Hyprland
-- **distro:** NixOS
+- **distro:** Arch
 <br/>
 </details>
 
