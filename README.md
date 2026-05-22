@@ -70,9 +70,7 @@
 
 ## 📖 &nbsp;currently learning
 
-- 🔐 &nbsp;cybersecurity fundamentals — networking, ethical hacking, CTF rabbit holes
-- 🌐 &nbsp;going deeper into **JavaScript** — async, APIs, the weird parts
-- 🐚 &nbsp;shell scripting & system internals
+- GO, Rust...
 
 ---
 
