@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=1000&color=C84C63&center=true&vCenter=true&width=500&lines=self-taught+dev;software+engineer+%26+security+nerd;building+%26+breaking+things;i+use+Arch+btw..." alt="typing svg" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=1000&color=C84C63&center=true&vCenter=true&width=500&lines=self-taught+dev;self+taught+software+engineer;i+use+Arch+btw..." alt="typing svg" />
 
 </div>
 
