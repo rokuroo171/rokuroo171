@@ -19,7 +19,6 @@
 - 🗓️ &nbsp;`17/12` — from Indonesia
 - 🐧 &nbsp;daily driving **Arch Linux**
 - 💻 &nbsp;self-taught — started with Scratch & Python in **2022**
-- 🔐 &nbsp;into **cybersecurity** — exploring how things break
 - 🌸 &nbsp;running the **1day1project** challenge
 - 🔗 &nbsp;portfolio → *(soon™)*
 
