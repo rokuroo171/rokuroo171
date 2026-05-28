@@ -131,19 +131,6 @@
 
 ---
 
-## 🗓️ &nbsp;1day1project
-
-> one small project every day. consistency over perfection.
-
-| day | project | status |
-|-----|---------|--------|
-| 01 | FocusFlow — focus timer | ✅ |
-| 02 | moodlog — mood tracker | ✅ |
-| 03 | weather app | 🔨 wip |
-| ... | more soon | 🌸 |
-
----
-
 ## 🔗 &nbsp;contact
 
 <div align="center">
