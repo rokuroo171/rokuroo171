@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=1000&color=C84C63&center=true&vCenter=true&width=500&lines=self-taught+dev;i+use+Arch+btw..." alt="typing svg" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=1000&color=C84C63&center=true&vCenter=true&width=500&lines=self-taught+dev;i+use+NixOS+btw..." alt="typing svg" />
 
 </div>
 
@@ -17,7 +17,7 @@
 <img align="right" src="https://media.tenor.com/s4opOMLG1TYAAAAj/wuthering-waves-wuwa.gif" width="140px" />
 
 - 🗓️ &nbsp;`12/17` - from Indonesia
-- 🐧 &nbsp;daily driving **Arch Linux**
+- 🐧 &nbsp;daily driving **NixOS**
 - 💻 &nbsp;self-taught - started with Scratch & Python in **2022**
 
 <br clear="right"/>
@@ -125,7 +125,7 @@
 
 - **editor:** VSCodium + Neovim
 - **WM:** Hyprland
-- **distro:** Arch Linux
+- **distro:** NixOS, Arch Linux
 <br/>
 </details>
 
