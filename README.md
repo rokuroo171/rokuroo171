@@ -30,7 +30,6 @@
 
 ![HTML5](https://img.shields.io/badge/HTML5-9A2A53?style=for-the-badge&logo=html5&logoColor=E7E3E2)
 ![CSS3](https://img.shields.io/badge/CSS3-6B1535?style=for-the-badge&logo=css3&logoColor=E7E3E2)
-![Go](https://img.shields.io/badge/Go-681535?style=for-the-badge&logo=Go3&logoColor=E7E3E2)
 ![JavaScript](https://img.shields.io/badge/JavaScript-C84C63?style=for-the-badge&logo=javascript&logoColor=2F1D1E)
 ![Python](https://img.shields.io/badge/Python-6B1535?style=for-the-badge&logo=python&logoColor=E7E3E2)
 ![Bash](https://img.shields.io/badge/Bash-9A2A53?style=for-the-badge&logo=gnubash&logoColor=E7E3E2)
