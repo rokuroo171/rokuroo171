@@ -133,7 +133,7 @@
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-rokuroo171-9A2A53?style=for-the-badge&logo=github&logoColor=E7E3E2&labelColor=2F1D1E)](https://github.com/rokuroo171)
-[![Instagram](https://img.shields.io/badge/Instagram-C84C63?style=for-the-badge&logo=instagram&logoColor=E7E3E2&labelColor=2F1D1E)](https://instagram.com/rakka.tar.gz)
+[![Instagram](https://img.shields.io/badge/Instagram-C84C63?style=for-the-badge&logo=instagram&logoColor=E7E3E2&labelColor=2F1D1E)](https://instagram.com/rakka.tar.xz)
 [![Discord](https://img.shields.io/badge/Discord-6B1535?style=for-the-badge&logo=discord&logoColor=E7E3E2&labelColor=2F1D1E)](https://discord.com)
 [![Spotify](https://img.shields.io/badge/Spotify-9A2A53?style=for-the-badge&logo=spotify&logoColor=E7E3E2&labelColor=2F1D1E)](https://open.spotify.com/user/31ugw36sbsvnbk77pcv4wf5pvxfm)
 [![AniList](https://img.shields.io/badge/AniList-6B1535?style=for-the-badge&logo=anilist&logoColor=E7E3E2&labelColor=2F1D1E)](https://anilist.co/user/rokuroo171/)
