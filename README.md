@@ -43,8 +43,6 @@
 
 <div align="center">
 
-![html](https://img.shields.io/badge/html-9A2A53?style=flat-square&logoColor=E7E3E2)
-![css](https://img.shields.io/badge/css-6B1535?style=flat-square&logoColor=E7E3E2)
 ![javascript](https://img.shields.io/badge/javascript-C84C63?style=flat-square&logoColor=2F1D1E)
 ![git](https://img.shields.io/badge/git-9A2A53?style=flat-square&logoColor=E7E3E2)
 ![github](https://img.shields.io/badge/github-6B1535?style=flat-square&logoColor=E7E3E2)
