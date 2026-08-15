@@ -89,7 +89,7 @@
 - 🌺 &nbsp;**A Space for the Unbound**
 - 🖤 &nbsp;**Omori**
 - ❤️ &nbsp;**Undertale**
-- ⚡ &nbsp;**Wuthering Waves** — carlotta.
+- ⚡ &nbsp;**Wuthering Waves** - carlotta.
 - 🤖 &nbsp;**Punishing: Gray Raven**
 
 <br/>
@@ -122,7 +122,7 @@
 
 - **editor:** VSCodium + Neovim
 - **WM:** Hyprland
-- **distro:** NixOS, Arch Linux
+- **distro:** NixOS, CachyOS
 <br/>
 </details>
 
