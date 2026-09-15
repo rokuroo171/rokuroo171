@@ -1,142 +1,134 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F1D1E,50:9A2A53,100:2F1D1E&height=200&section=header&text=rokuroo&fontSize=60&fontColor=E7E3E2&fontAlignY=38&desc=hii%20welcome...&descSize=16&descAlignY=60&descColor=C84C63&animation=fadeIn" />
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=1000&color=C84C63&center=true&vCenter=true&width=500&lines=self-taught+dev;i+use+NixOS+btw..." alt="typing svg" />
-
-</div>
-
-<br/>
-
----
-
-## 🌸 &nbsp;hello there &nbsp;👋
-
-<img align="right" src="https://media.tenor.com/s4opOMLG1TYAAAAj/wuthering-waves-wuwa.gif" width="140px" />
-
-- 🗓️ &nbsp;`12/17` - from Indonesia
-- 🐧 &nbsp;daily driving **NixOS**
-- 💻 &nbsp;self-taught - started with Scratch & Python in **2022**
-
-<br clear="right"/>
-
----
-
-## 🛠️ &nbsp;tech stack
-
-<div align="center">
-
-![Go](https://img.shields.io/badge/Go-6B1535?logo=Go&logoColor=white&style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-C84C63?style=for-the-badge&logo=javascript&logoColor=2F1D1E)
-![Python](https://img.shields.io/badge/Python-6B1535?style=for-the-badge&logo=python&logoColor=E7E3E2)
-![Bash](https://img.shields.io/badge/Bash-9A2A53?style=for-the-badge&logo=gnubash&logoColor=E7E3E2)
-![Git](https://img.shields.io/badge/Git-C84C63?style=for-the-badge&logo=git&logoColor=2F1D1E)
-![Linux](https://img.shields.io/badge/Linux-6B1535?style=for-the-badge&logo=linux&logoColor=E7E3E2)
+<img src="assets/404banner.png" alt="rokuroo" width="100%" />
 
 </div>
 
 ---
 
-## 🏷️ &nbsp;starred topics
+## about me
+
+```json
+{
+  "handle": "rokuroo171",
+  "started_with": ["Scratch", "Python"],
+  "builds": "things I need, then wonders why I needed them"
+}
+```
+
+---
+
+## ~~fastfetch~~ rokufetch
+
+```
+$ gh rokufetch
+    .--.              rokuroo@github
+   |o_o |             --------------
+   |:_/ |             distro:  NixOS, CachyOS
+  //   \ \            wm:      Hyprland
+ (|     | )           editor:  VSCodium + Neovim
+/'\_   _/`\           shell:   gh
+\___)=(___/           from:    Indonesia
+                      uptime:  since 2022
+                      last login: 2022 from Scratch
+                      now playing: 2am playlist
+```
+
+---
+
+## tech stack
 
 <div align="center">
 
-![javascript](https://img.shields.io/badge/javascript-C84C63?style=flat-square&logoColor=2F1D1E)
-![git](https://img.shields.io/badge/git-9A2A53?style=flat-square&logoColor=E7E3E2)
-![github](https://img.shields.io/badge/github-6B1535?style=flat-square&logoColor=E7E3E2)
-![linux](https://img.shields.io/badge/linux-9A2A53?style=flat-square&logoColor=E7E3E2)
-![terminal](https://img.shields.io/badge/terminal-6B1535?style=flat-square&logoColor=E7E3E2)
-![bash](https://img.shields.io/badge/bash-C84C63?style=flat-square&logoColor=2F1D1E)
-![web-development](https://img.shields.io/badge/web--development-9A2A53?style=flat-square&logoColor=E7E3E2)
-![frontend](https://img.shields.io/badge/frontend-6B1535?style=flat-square&logoColor=E7E3E2)
-![open-source](https://img.shields.io/badge/open--source-C84C63?style=flat-square&logoColor=2F1D1E)
-![cybersecurity](https://img.shields.io/badge/cybersecurity-9A2A53?style=flat-square&logoColor=E7E3E2)
-![networking](https://img.shields.io/badge/networking-6B1535?style=flat-square&logoColor=E7E3E2)
-![ethical-hacking](https://img.shields.io/badge/ethical--hacking-C84C63?style=flat-square&logoColor=2F1D1E)
-![ctf](https://img.shields.io/badge/ctf-9A2A53?style=flat-square&logoColor=E7E3E2)
-![osint](https://img.shields.io/badge/osint-6B1535?style=flat-square&logoColor=E7E3E2)
+![JavaScript](https://img.shields.io/badge/JavaScript-JavaScript-EFF1F5?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=EFF1F5)
+![Go](https://img.shields.io/badge/Go-Go-EFF1F5?style=for-the-badge&logo=go&logoColor=00ADD8&labelColor=EFF1F5)
+![Python](https://img.shields.io/badge/Python-Python-EFF1F5?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=EFF1F5)
+![Bash](https://img.shields.io/badge/Bash-Bash-EFF1F5?style=for-the-badge&logo=gnubash&logoColor=4EAA25&labelColor=EFF1F5)
+![Git](https://img.shields.io/badge/Git-Git-EFF1F5?style=for-the-badge&logo=git&logoColor=F05032&labelColor=EFF1F5)
+![Linux](https://img.shields.io/badge/Linux-Linux-EFF1F5?style=for-the-badge&logo=linux&logoColor=FCC624&labelColor=EFF1F5)
 
 </div>
 
 ---
 
-## 📖 &nbsp;currently learning
+## projects
 
-- GO, Rust...
+```
+$ gh repo list rokuroo171 --limit 3
+```
+
+| repo | about | ⭐ |
+|------|-------|---|
+| [glean](https://github.com/rokuroo171/glean) | open-source note-taking app with lots of customization, built with wails (go + react) | 22 |
+| [raind](https://github.com/rokuroo171/raind) | terminal weather screensaver written in go | 6 |
+| [sunder](https://github.com/rokuroo171/sunder) | C2 framework | 0 |
 
 ---
 
-## 📊 &nbsp;stats
+## learning
+
+```
+$ nix profile list | grep learning
+
+learning.rust   "the borrow checker and i are getting to know each other"
+```
+
+---
+
+## stats
 
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=rokuroo171&theme=transparent&hide_border=true&ring=9A2A53&fire=C84C63&currStreakLabel=C84C63&sideLabels=A29FA3&dates=A29FA3" />
+
+![contributions snake](https://raw.githubusercontent.com/rokuroo171/rokuroo171/output/snake.svg)
+
 </div>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rokuroo171&bg_color=2F1D1E&color=C84C63&line=9A2A53&point=E7E3E2&area=true&hide_border=true" />
+
+![GitHub Streak](./profile/streak.svg)
+
+</div>
+
+<div align="center">
+
+![GitHub Stats](./profile/stats.svg)
+
 </div>
 
 ---
 
-## 🌸 &nbsp;favourite things
+## favourites
 
-<details>
-<summary>▶ &nbsp;🎮 &nbsp;<b>favourite games</b></summary>
-<br/>
-
-- 🌺 &nbsp;**A Space for the Unbound**
-- 🖤 &nbsp;**Omori**
-- ❤️ &nbsp;**Undertale**
-- ⚡ &nbsp;**Wuthering Waves** - carlotta.
-- 🤖 &nbsp;**Punishing: Gray Raven**
-
-<br/>
-</details>
-
-<details>
-<summary>▶ &nbsp;📺 &nbsp;<b>favourite anime</b></summary>
-<br/>
-
-- 🎸 &nbsp;**Bocchi the Rock**
-- 💌 &nbsp;**Violet Evergarden**
-- 🎵 &nbsp;**K-On!**
-- ⚔️ &nbsp;**Vinland Saga**
-
-<br/>
-</details>
-
-<details>
-<summary>▶ &nbsp;🎵 &nbsp;<b>favourite music</b></summary>
-<br/>
-
-- **vibe:** anything that hits different at 2am
-
-<br/>
-</details>
-
-<details>
-<summary>▶ &nbsp;🛠️ &nbsp;<b>daily tools</b></summary>
-<br/>
-
-- **editor:** VSCodium + Neovim
-- **WM:** Hyprland
-- **distro:** NixOS, CachyOS
-<br/>
-</details>
+```
+$ tree ~/favourites
+favourites
+├── games
+│   ├── a-space-for-the-unbound
+│   ├── omori
+│   ├── undertale
+│   ├── limbus-company
+│   ├── wuthering-waves      # carlotta.
+│   └── punishing-gray-raven
+├── anime
+│   ├── bocchi-the-rock
+│   ├── violet-evergarden
+│   ├── k-on
+│   └── vinland-saga
+└── music
+    └── anything that hits different at 2am :0
+```
 
 ---
 
-## 🔗 &nbsp;contact
+## contact
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-rokuroo171-9A2A53?style=for-the-badge&logo=github&logoColor=E7E3E2&labelColor=2F1D1E)](https://github.com/rokuroo171)
-[![Instagram](https://img.shields.io/badge/Instagram-C84C63?style=for-the-badge&logo=instagram&logoColor=E7E3E2&labelColor=2F1D1E)](https://instagram.com/rakka.tar.xz)
-[![Discord](https://img.shields.io/badge/Discord-6B1535?style=for-the-badge&logo=discord&logoColor=E7E3E2&labelColor=2F1D1E)](https://discord.com)
-[![Spotify](https://img.shields.io/badge/Spotify-9A2A53?style=for-the-badge&logo=spotify&logoColor=E7E3E2&labelColor=2F1D1E)](https://open.spotify.com/user/31ugw36sbsvnbk77pcv4wf5pvxfm)
-[![AniList](https://img.shields.io/badge/AniList-6B1535?style=for-the-badge&logo=anilist&logoColor=E7E3E2&labelColor=2F1D1E)](https://anilist.co/user/rokuroo171/)
+[![GitHub](https://img.shields.io/badge/GitHub-GitHub-EFF1F5?style=for-the-badge&logo=github&logoColor=4C4F69&labelColor=EFF1F5)](https://github.com/rokuroo171)
+[![Instagram](https://img.shields.io/badge/Instagram-Instagram-EFF1F5?style=for-the-badge&logo=instagram&logoColor=4C4F69&labelColor=EFF1F5)](https://instagram.com/rakka.tar.xz)
+[![Spotify](https://img.shields.io/badge/Spotify-Spotify-EFF1F5?style=for-the-badge&logo=spotify&logoColor=4C4F69&labelColor=EFF1F5)](https://open.spotify.com/user/31ugw36sbsvnbk77pcv4wf5pvxfm)
+[![AniList](https://img.shields.io/badge/AniList-AniList-EFF1F5?style=for-the-badge&logo=anilist&logoColor=4C4F69&labelColor=EFF1F5)](https://anilist.co/user/rokuroo171/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-LinkedIn-EFF1F5?style=for-the-badge&logo=linkedin&logoColor=4C4F69&labelColor=EFF1F5)](https://www.linkedin.com/in/m-rakka-0175683b4)
 
 </div>
 
@@ -144,7 +136,6 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F1D1E,50:9A2A53,100:2F1D1E&height=120&section=footer&animation=fadeIn" />
+<sub><i>Hi rokuroo171! You've successfully authenticated, but GitHub does not provide shell access.</i><br/><i>Connection to github closed.</i></sub>
 
-<sub><i>"like, dislike, must like" — someone probably</i></sub>
-
+</div>
