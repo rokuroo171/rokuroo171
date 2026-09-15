@@ -3,7 +3,12 @@ name: Generate snake
 on:
   schedule:
     - cron: "0 5 * * 1" # weekly, monday 05:00 UTC
+  push:
+    paths:
+      - ".github/workflows/snake.yml"
   workflow_dispatch:
+
+concurrency: snake
 
 jobs:
   generate:

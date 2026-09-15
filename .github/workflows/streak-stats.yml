@@ -16,6 +16,8 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
       - name: Generate streak stats
         uses: DenverCoder1/github-readme-streak-stats@main
         with:
@@ -28,4 +30,6 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add profile/streak.svg
           git commit -m "Update streak stats" || exit 0
+          # the other card workflow may have committed while this run was queued
+          git pull --rebase origin main
           git push
