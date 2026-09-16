@@ -29,8 +29,7 @@ $ gh rokufetch
  (|     | )           editor:  VSCodium + Neovim
 /'\_   _/`\           shell:   gh
 \___)=(___/           from:    Indonesia
-                      uptime:  since 2022
-                      last login: 2022 from Scratch
+                      uptime:  since 2022 (experience)
                       now playing: 2am playlist
 ```
 
