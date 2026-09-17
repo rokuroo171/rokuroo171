@@ -127,10 +127,9 @@ favourites
 [![Instagram](https://img.shields.io/badge/Instagram-Instagram-EFF1F5?style=for-the-badge&logo=instagram&logoColor=4C4F69&labelColor=EFF1F5)](https://instagram.com/rakka.tar.xz)
 [![Spotify](https://img.shields.io/badge/Spotify-Spotify-EFF1F5?style=for-the-badge&logo=spotify&logoColor=4C4F69&labelColor=EFF1F5)](https://open.spotify.com/user/31ugw36sbsvnbk77pcv4wf5pvxfm)
 [![AniList](https://img.shields.io/badge/AniList-AniList-EFF1F5?style=for-the-badge&logo=anilist&logoColor=4C4F69&labelColor=EFF1F5)](https://anilist.co/user/rokuroo171/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-LinkedIn-EFF1F5?style=for-the-badge&logo=linkedin&logoColor=4C4F69&labelColor=EFF1F5)](https://www.linkedin.com/in/m-rakka-0175683b4)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-LinkedIn-EFF1F5?style=for-the-badge&logo=linkedin&logoColor=4C4F69&labelColor=EFF1F5)](https://www.linkedin.com/in/m-rakka)
 
-</div>
-
+<sub><i>There's no place like 127.0.0.1
 ---
 
 <div align="center">
