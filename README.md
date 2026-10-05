@@ -16,10 +16,6 @@
 }
 ```
 
----
-
-## ~~fastfetch~~ rokufetch
-
 ```
 $ gh rokufetch
     .--.              rokuroo@github
