@@ -55,8 +55,8 @@ $ gh repo list rokuroo171 --limit 3
 | repo | about | ⭐ |
 |------|-------|---|
 | [glean](https://github.com/rokuroo171/glean) | open-source note-taking app with lots of customization, built with wails (go + react) | 22 |
-| [raind](https://github.com/rokuroo171/raind) | terminal weather screensaver written in go | 6 |
-| [sunder](https://github.com/rokuroo171/sunder) | C2 framework | 0 |
+| [anywhich](https://github.com/rokuroo171/anywhich) | a better `which` | 1 |
+| [capiro](https://github.com/rokuroo171/capiro) | open-source screenshot & capturing engine | 0 |
 
 ---
 
